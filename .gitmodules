@@ -1,6 +1,6 @@
 [submodule "test-sub-repo-1"]
 	path = test-sub-repo-1
-	url = git@github.com:paniadri/test-sub-repo-1.git
+	url = https://github.com/paniadri/test-sub-repo-1.git
 [submodule "test-sub-repo-2"]
 	path = test-sub-repo-2
-	url = git@github.com:paniadri/test-sub-repo-2.git
+	url = https://github.com/paniadri/test-sub-repo-2.git
